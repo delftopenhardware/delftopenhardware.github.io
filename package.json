@@ -15,17 +15,16 @@
     "license": "MIT",
     "private": false,
     "devDependencies": {
-        "vuepress": "^1.0.0-rc.1"
+        "vuepress": "^1.1.0"
     },
     "dependencies": {
         "convert-csv-to-json": "0.0.15",
         "dotenv": "^5.0.1",
-        "hardocs": "^1.1.1",
-        "inquirer": "^6.5.0",
+        "hardocs": "^1.2.10",
+        "inquirer": "^6.5.2",
         "js-yaml": "^3.13.1",
         "json-to-markdown-table2": "^1.0.1",
-        "node-watch": "^0.6.2",
-        "vuepress": "^1.0.0-rc.1"
+        "node-watch": "^0.6.3"
     },
     "keywords": [
         "hardware documentation",
