@@ -6,8 +6,8 @@ const sidebarArray = require("hardocs/src/buildSidebar");
 module.exports = {
     title: "Name your project",
     //description : "use for meta descriptitrueon",
-    base: "/website/",
     dest: "public",
+    base: "/delftoh/",
     config: (md) => {
         md.options.linkify = sidebarArray;
     },
