@@ -7,7 +7,7 @@ module.exports = {
     title: "Name your project",
     //description : "use for meta descriptitrueon",
     base: "/" + process.env.REPOSITORY + "/",
-    dest: ".vuepress/dist",
+    dest: "public",
     config: (md) => {
         md.options.linkify = sidebarArray;
     },
