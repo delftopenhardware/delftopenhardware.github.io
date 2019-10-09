@@ -7,7 +7,7 @@ module.exports = {
     title: "Name your project",
     //description : "use for meta descriptitrueon",
     dest: "public",
-    base: "/delftoh/",
+    base: "/",
     config: (md) => {
         md.options.linkify = sidebarArray;
     },
