@@ -7,7 +7,7 @@ module.exports = {
     title: "Delft Open Hardware website",
     //description : "use for meta descriptitrueon",
     dest: "public",
-    base: "/delftoh/",
+    base: "/",
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
       ],
