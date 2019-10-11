@@ -4,14 +4,19 @@ const sidebarArray = require("hardocs/src/buildSidebar");
 
 // configure these modules if you
 module.exports = {
-    title: "Name your project",
+    title: "Delft Open Hardware website",
     //description : "use for meta descriptitrueon",
     dest: "public",
     base: "/delftoh/",
+    head: [
+        ['link', { rel: 'icon', href: '/logo.png' }]
+      ],
+    extend: '@vuepress/theme-default',
     config: (md) => {
         md.options.linkify = sidebarArray;
     },
     themeConfig: {
+        logo:'/logo.png',
         sidebar: sidebarArray
     }
 };

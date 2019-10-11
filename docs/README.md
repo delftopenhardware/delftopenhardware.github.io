@@ -1,11 +1,9 @@
-# Introduce your project
-Write the background of this project, key motivations and rationale behind it. Try to keep it short but comprehensive. Use also emojis and an image to show something about the project. 
+# Hi you! 👋 
+## Welcome to our website 0.0.1 
 
-## Name your product-hardware
-Specify what it does, what is the main function, what is the context of use. Then introduce the specifics of this project and the main goals.
+To make it easy for you to get to know us🤝, and to contribute to projects💪, we made this website.
 
-## Product specifications
-Make a short list of key specifications. Try to make it as 
-1. Spec 1
-2. Spec 2
-3. Spec 3
+
+## What is Delft Open Hardware
+We like to do Open Source Hardware projects and are always up for a good laugh.
+
