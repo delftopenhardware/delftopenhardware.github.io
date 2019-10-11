@@ -10,10 +10,6 @@ The reason you are reading this is great! Probably you came here to see what thi
 6. Let us know you did it and how it went, or recommended follow-ups
 7. Celebrate that you just made the world a tiny bit better!
 
-
-
-
-
 Community channels tools and resources
 
 We know it’s a bit much, but we have a couple of different platforms for different purposes
