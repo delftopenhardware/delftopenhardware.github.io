@@ -10,10 +10,6 @@ The reason you are reading this is great! Probably you came here to see what thi
 6. Let us know you did it and how it went, or recommended follow-ups
 7. Celebrate that you just made the world a tiny bit better!
 
-
-
-
-
 Community channels tools and resources
 
 We know it’s a bit much, but we have a couple of different platforms for different purposes
@@ -27,3 +23,20 @@ We know it’s a bit much, but we have a couple of different platforms for diffe
 - [Telegram for chating](https://t.me/DelftOpenHardware): Daily communication tool, announcements, always open for questions and interesting links
 
 - Meetups: We like to get together once in a while, we mostly announce it on the telegram but you can also find it here 
+
+
+
+## Have a question?
+
+Here are the following methods you can reach us: 
+Telegram: As mentioned above, we have a public telegram group that you can join at any time😀 (or leave if you feel like 😢)
+
+Comments in documents: You are always free to place comments in documents, we should get updates about comments and will reply there  
+
+Email: If you don't feel comfortable talking in public, or you have a personal question you can always drop us an email at: info@DelftOpenHardware.com
+
+ 
+
+
+## Thanks for somehow making it all the way to the end, 
+you are awesome!🙌
