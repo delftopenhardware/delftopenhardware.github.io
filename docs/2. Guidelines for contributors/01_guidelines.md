@@ -16,7 +16,7 @@
 ### Here are some things you can do get started:
 - Drop your question on the chat, people will help you out.
 - Join on a Friday lunch break and let us know you are joining.
-- Help us by filling in the [form](../1.How to get involved/01_Join.md) and share your background so that others get to know you.
+- Help us by filling in the [form](https://delftopenhardware.nl/1.%20How%20to%20get%20involved/01_Join.html) and share your background so that others get to know you.
 - Share your background and interests in the chat room. 
 - Find issues labeled with help wanted, tasks, etc. of your interest accross different repositories [here](https://gitlab.com/groups/go-commons/delftopenhardware/-/issues). 
 
