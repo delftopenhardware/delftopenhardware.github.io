@@ -1,4 +1,5 @@
-# Hi you! 👋, Currently we are having some trouble with our email client and DNS settings😐, if you want to reach we have a open telegram group! https://t.me/DelftOpenHardware
+# Hi you! 👋
+Currently we are having some trouble with our email client and DNS settings😐, if you want to reach we have a open telegram group! https://t.me/DelftOpenHardware
 
 ## Welcome to our website 0.0.2 😉
 
