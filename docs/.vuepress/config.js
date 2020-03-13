@@ -2,7 +2,7 @@ const sidebarArray = require("hardocs/src/buildSidebar");
 
 // configure these modules if you
 module.exports = {
-  title: "Delft Open Hardware website",
+  title: "Delft Open Hardware",
   //description : "use for meta descriptitrueon",
   dest: "public",
   base: "/",

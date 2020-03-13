@@ -1,7 +1,7 @@
-# Hi you! 👋
 
-
-## Welcome to our website 0.0.3 😉
+# Delft Open Hardware
+## Hi you! 👋
+### Welcome to our website 0.0.3 😉
 
 To make it easy for you to get to know us🤝, and to contribute to projects💪, we made this website.
 
