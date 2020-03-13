@@ -4,6 +4,7 @@ const sidebarArray = require("hardocs/src/buildSidebar");
 module.exports = {
   title: "Delft Open Hardware",
   //description : "use for meta descriptitrueon",
+  description: "We are a community dedicated to using, replicating, testing, developing and teaching open hardware concepts in Delft. Join our community and monthly events ",
   dest: "public",
   base: "/",
   head: [["link", { rel: "icon", href: "/logo.png" }]],

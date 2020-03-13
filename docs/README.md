@@ -1,3 +1,10 @@
+---
+meta:
+  - name: description
+    content: Delft Open Hardware group
+  - name: keywords
+    content: hardware, design, open source, TU Delft, open science, community, meetups 
+---
 
 # Delft Open Hardware
 ## Hi you! 👋
