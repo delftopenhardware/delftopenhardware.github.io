@@ -13,6 +13,10 @@ module.exports = {
     md.options.linkify = sidebarArray;
   },
   themeConfig: {
+    nav: [
+      { text: 'Covid-19', link: '/covid19.md' },
+      { text: 'Community chat', link: 'https://t.me/DelftOpenHardware' },
+    ],
     logo: "/logo.png",
     sidebar: sidebarArray,
     // if your docs are in a different repo from your main project:

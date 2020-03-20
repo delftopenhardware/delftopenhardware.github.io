@@ -1,7 +1,7 @@
 ---
 meta:
   - name: description
-    content: Delft Open Hardware group
+    content: Delft Open Hardware Community
   - name: keywords
     content: hardware, design, open source, TU Delft, open science, community, meetups 
 ---
