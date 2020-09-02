@@ -20,7 +20,7 @@ We know it’s a bit much, but we have a couple of different platforms for diffe
 
 - [Gitlab repos and groups for project development](https://gitlab.com/go-commons/delftopenhardware): Actual documentation of the projects, easy to fork and simple to contribute
 
-- [Telegram for chating](https://t.me/DelftOpenHardware): Daily communication tool, announcements, always open for questions and interesting links
+<!-- - [Telegram for chating](https://t.me/DelftOpenHardware): Daily communication tool, announcements, always open for questions and interesting links -->
 
 - Meetups: We like to get together once in a while, we mostly announce it on the telegram but you can also find it on the landing page.
 
