@@ -23,8 +23,9 @@ module.exports = {
   // },
   themeConfig: {
     nav: [
-      { text: 'Covid-19', link: '/covid19.md' },
-      // { text: 'Community chat', link: 'https://t.me/DelftOpenHardware' },
+      { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/content/' },
+      { text: 'Blog', link: '/blog/' },
     ],
     logo: "/logo.png",
     sidebar: modules,
