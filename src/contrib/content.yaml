@@ -1,7 +1,7 @@
 type: module                              # REQUIRED: Describe the type of module 
-title: Demonstrate how to use this lib    # REQUIRED: Provide a title for the content module 
+title: Contributing    # REQUIRED: Provide a title for the content module 
 description: >                            # REQUIRED
-  Describe your module in 2 sentences     
+  Join the group, propose projects, graduate on open source topics     
 isPublic: true                            # REQUIRED 
 isDraft: false
 level: 2    
