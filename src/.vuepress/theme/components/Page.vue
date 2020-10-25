@@ -1,5 +1,5 @@
 <template>
-  <main class="page">
+  <main class="page h-screen">
     <slot name="top"/>
 
     <Content class="theme-default-content bg-background-content"/>
@@ -198,6 +198,7 @@ function flatten (items, res) {
 .page
   padding-bottom 2rem
   display block
+  // height 100vh !important
 
 .page-edit
   @extend $wrapper
