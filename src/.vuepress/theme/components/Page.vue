@@ -1,5 +1,5 @@
 <template>
-  <main class="page h-screen">
+  <main class="page min-h-screen">
     <slot name="top"/>
 
     <Content class="theme-default-content bg-background-content"/>
