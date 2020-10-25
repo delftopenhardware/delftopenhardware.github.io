@@ -1,4 +1,13 @@
-const sidebarArray = require("hardocs/src/buildSidebar");
+const fs = require('fs')
+const path = require('path')
+const { buildContents, buildSidebar } = require('metacon')
+
+let contents = require('./contents.data.json')
+contents = contents.contents
+console.log(contents)
+let modules = buildSidebar(contents, path.join( __dirname, '../'))
+console.log(modules)
+
 
 // configure these modules if you
 module.exports = {
@@ -9,16 +18,16 @@ module.exports = {
   base: "/",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
   extend: "@vuepress/theme-default",
-  config: md => {
-    md.options.linkify = sidebarArray;
-  },
+  // config: md => {
+  //   md.options.linkify = modules;
+  // },
   themeConfig: {
     nav: [
       { text: 'Covid-19', link: '/covid19.md' },
       // { text: 'Community chat', link: 'https://t.me/DelftOpenHardware' },
     ],
     logo: "/logo.png",
-    sidebar: sidebarArray,
+    sidebar: modules,
     // if your docs are in a different repo from your main project:
     docsRepo: "https://gitlab.com/go-commons/delftopenhardware/delftoh",
     // if your docs are not at the root of the repo:
@@ -27,10 +36,25 @@ module.exports = {
     docsBranch: "develop",
     // defaults to false, set to true to enable
     editLinks: true,
-   
+
     editLinkText: "Help us improve this page!"
+  },
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': '' // UA-00000000-0
+      }
+    ],
+    '@vuepress/pwa',
+    'vuepress-plugin-reading-time',
+  ],
+  postcss: {
+    plugins: [
+      require("tailwindcss")("./tailwind.config.js"),
+      require("autoprefixer")
+    ]
   }
 };
 
-//check for sidebar
-console.log(sidebarArray);
+

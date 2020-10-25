@@ -1,0 +1,44 @@
+{"contents":[
+  {
+    "id": 206,
+    "description": "Describe your module in 2 sentences\n",
+    "title": "Demonstrate how to use this lib",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\contrib\\",
+    "relativePath": "/contrib/",
+    "authors": ""
+  },
+  {
+    "id": 309,
+    "description": "Describe your module in 2 sentences\n",
+    "title": "Demonstrate how to use this lib",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\get_involved\\",
+    "relativePath": "/get_involved/",
+    "authors": ""
+  },
+  {
+    "id": 204,
+    "description": "Describe your module in 2 sentences\n",
+    "title": "Demonstrate how to use this lib",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\projects\\",
+    "relativePath": "/projects/",
+    "authors": ""
+  }
+]}
