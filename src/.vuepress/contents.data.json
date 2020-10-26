@@ -1,6 +1,6 @@
 {"contents":[
   {
-    "id": 206,
+    "id": 8,
     "description": "Join the group, propose projects, graduate on open source topics\n",
     "title": "Contributing",
     "isPublic": true,
@@ -14,7 +14,7 @@
     "authors": ""
   },
   {
-    "id": 359,
+    "id": 718,
     "description": "For students, researchers, professors, staff and beyond\n",
     "title": "Getting involved",
     "isPublic": true,
@@ -28,7 +28,7 @@
     "authors": ""
   },
   {
-    "id": 423,
+    "id": 203,
     "description": "Let us know if you are interested in working on open source projects, we can support you\n",
     "title": "Call for projects",
     "isPublic": true,
