@@ -6,7 +6,7 @@
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
-    <div class="grid grid-flow-col grid-cols-2 grid-rows-2 gap-3 py-4">
+    <div class="grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3 py-4">
       <div v-for="i in items" class="">
         <!-- <div class="text-center"v-if="i.level == 1">
         <h1>{{i.title}}</h1>
