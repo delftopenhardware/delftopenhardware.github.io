@@ -6,7 +6,9 @@
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
-    <div class="grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3 py-4">
+    <div
+      class="grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3 py-4"
+    >
       <div v-for="i in items" class="">
         <!-- <div class="text-center"v-if="i.level == 1">
         <h1>{{i.title}}</h1>
@@ -14,13 +16,13 @@
       </div>-->
         <div
           style="cursor: pointer; background-color: white"
-          class="p-4 border-primary rounded-lg w-full shadow-lg bg-white p-6 rounded-lg duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-100"
+          class="p-4 h-full border-primary rounded-lg w-full shadow-lg bg-white p-6 rounded-lg duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-100"
           v-if="i.level == 2 && i.title"
         >
           <router-link :to="i.relativePath">
             <h2 class="border-0">{{ i.title }}</h2>
+            <p style="color:#121212;" class="">{{ i.description }}</p>
           </router-link>
-          <p>{{ i.description }}</p>
         </div>
         <div v-else></div>
       </div>

@@ -1,4 +1,4 @@
-# current running projects
+# Current running projects
 
 ## Centrifuge
 Project lead: Jannes

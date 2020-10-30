@@ -1,20 +1,20 @@
 {"contents":[
   {
-    "id": 96,
-    "description": "Join the group, propose projects, graduate on open source topics\n",
-    "title": "Contributing",
+    "id": 109,
+    "description": "Want to see what we are all about?  read more...\n",
+    "title": "Meetups",
     "isPublic": true,
     "isDraft": false,
     "type": "module",
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\contrib\\",
-    "relativePath": "/contrib/",
+    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\events\\",
+    "relativePath": "/events/",
     "authors": ""
   },
   {
-    "id": 286,
+    "id": 749,
     "description": "For students, researchers, professors, staff and beyond\n",
     "title": "Getting involved",
     "isPublic": true,
@@ -28,9 +28,9 @@
     "authors": ""
   },
   {
-    "id": 290,
-    "description": "Let us know if you are interested in working on open source projects, we can support you\n",
-    "title": "Call for projects",
+    "id": 482,
+    "description": "Find out what we do, how you can support and how to suggest projects\n",
+    "title": "Projects",
     "isPublic": true,
     "isDraft": false,
     "type": "module",

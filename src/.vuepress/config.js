@@ -2,18 +2,10 @@ const fs = require('fs')
 const path = require('path')
 const { buildContents, buildSidebar } = require('metacon')
 
-// let contents = require('./contents.data.json')
-// contents = contents.contents
-// console.log(contents)
-// let modules = buildSidebar(contents, path.join( __dirname, '../'))
-// console.log(modules)
-
-
-let dirPath = path.join(__dirname, '../')
-let contents = buildContents(dirPath, path.join(process.cwd(), '/src/'))
-console.log("where the contents file is: " + path.join(process.cwd(), '/src/'))
+let contents = require('./contents.data.json')
+contents = contents.contents
 console.log(contents)
-let modules = buildSidebar(contents, path.join(process.cwd(), '/src/'))
+let modules = buildSidebar(contents, path.join( __dirname, '../'))
 console.log(modules)
 
 
