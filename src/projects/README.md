@@ -3,7 +3,7 @@
 ## Centrifuge
 Project lead: Jannes
 Field: Medical
-Status: Finished
+Status: Ongoing
 Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware) 
 ## Fume sensor
 Project lead: Jerry
@@ -18,5 +18,5 @@ Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware)
 ## Circulair Solar
 Project lead: Siemen
 Field: Energy
-Status: Just stared
+Status: Just started
 Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware)

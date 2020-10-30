@@ -1,7 +1,7 @@
 {"contents":[
   {
-    "id": 109,
-    "description": "Want to see what we are all about?  read more...\n",
+    "id": 119,
+    "description": "Want to see what we are all about?  Here is how you can find us\n",
     "title": "Meetups",
     "isPublic": true,
     "isDraft": false,
@@ -14,7 +14,7 @@
     "authors": ""
   },
   {
-    "id": 749,
+    "id": 754,
     "description": "For students, researchers, professors, staff and beyond\n",
     "title": "Getting involved",
     "isPublic": true,
@@ -28,7 +28,7 @@
     "authors": ""
   },
   {
-    "id": 482,
+    "id": 563,
     "description": "Find out what we do, how you can support and how to suggest projects\n",
     "title": "Projects",
     "isPublic": true,
