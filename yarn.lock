@@ -5123,10 +5123,10 @@ merge2@^1.2.3:
   resolved "https://registry.yarnpkg.com/merge2/-/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
   integrity sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==
 
-metacon@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/metacon/-/metacon-0.0.5.tgz#3ae75977ba619871390e6a362d60fafd38d5201d"
-  integrity sha512-R1Ad/jJ4lDzn1+4O4I7Pkq+d+RP6144+S94dlPyyx1+sIM0cCVbJyluVfxDKlTznCTb8JHe0WrT2jJ99yicXeQ==
+metacon@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/metacon/-/metacon-0.0.7.tgz#1bb1953e7cd45a878752e1dea6f6fa2a897cf105"
+  integrity sha512-Dvrt/HGBPi0FXYVXxYsVJ57N8nTssYp51MVB9b/5sZ2O6F5b+J6EJp5vlsOAUw95DZbdgqo4mOa/nNRnk7myEg==
   dependencies:
     ajv "^7.0.0-beta.1"
     directory-tree "^2.2.4"

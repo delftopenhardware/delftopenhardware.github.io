@@ -1,0 +1,5 @@
+# Let's get physical, just kidding ;)
+we have future event (link)
+we had past events(link)
+we have telegram(link)
+we have weekly meetings(link)

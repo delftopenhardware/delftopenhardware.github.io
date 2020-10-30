@@ -1,7 +1,7 @@
 type: module                              # REQUIRED: Describe the type of module 
-title: Contributing    # REQUIRED: Provide a title for the content module 
+title: Meetups    # REQUIRED: Provide a title for the content module 
 description: >                            # REQUIRED
-  Join the group, propose projects, graduate on open source topics     
+  Want to see what we are all about? find us here:
 isPublic: true                            # REQUIRED 
 isDraft: false
 level: 2    

@@ -1,8 +1,7 @@
 type: module                              # REQUIRED: Describe the type of module 
-title: Call for projects    # REQUIRED: Provide a title for the content module 
+title: Projects    # REQUIRED: Provide a title for the content module 
 description: >                            # REQUIRED
-  Let us know if you are interested in working on open source projects,
-  we can support you     
+  Find out what we do, how you can support and how to suggest projects     
 isPublic: true                            # REQUIRED 
 isDraft: false
 level: 2    
