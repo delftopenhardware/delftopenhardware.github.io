@@ -4,8 +4,10 @@ The reason you are reading this is great! Probably you came here to see what thi
 
 ## How to participate:
 - Are you interested in doing an open source thesis? Get in contact with us!
-- Share a project you are working on or would like to work on.
-- Propose projects or ideas that can make the community better.
+- Share a project you are working on.
+- Get inspired by what others are doing
+- Propose projects to find collaborators.
+- Propose ideas to improve our governance and organization.
 - Ask for guidance, help or orientation on several topics (Arduino, Python, Sensors,Git, PCB design, CAD modeling)
 - Participate in our events and workshops.
 
