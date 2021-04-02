@@ -1,0 +1,21 @@
+# in _config.yml
+title: "Delft Open Hardware community website"
+logo: images/logo.png
+execute:
+  execute_notebooks: "off"
+
+only_build_toc_files: true
+
+exclude_patterns: [LICENSE.md, .blog/ images/**.*,./**/*.py, ./**/*.jpg ]
+
+# Information about where the book exists on the web
+repository:
+  url  : https://github.com/jurra/demo_delft_oh.git
+
+html:
+  use_repository_button: true
+  comments:
+    utterances:
+      repo: "jurra/demo_delft_oh" 
+  
+  home_page_in_navbar: false# in _config.yml
