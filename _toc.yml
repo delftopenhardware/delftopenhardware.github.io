@@ -1,0 +1,19 @@
+file: README
+sections:
+- file: src/README
+  sections:
+  - file: src/.blog/20201030-blog1
+    sections:
+    - file: src/.blog/README
+  - file: src/content/README
+  - file: src/events/01_future_events
+    sections:
+    - file: src/events/02_past_events
+    - file: src/events/README
+  - file: src/get_involved/README
+  - file: src/projects/01_proposal_project
+    sections:
+    - file: src/projects/02_contribute
+    - file: src/projects/03_Templates
+    - file: src/projects/04-Contributing-to-website
+    - file: src/projects/README

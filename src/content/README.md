@@ -1,8 +1,3 @@
----
-title: Team
-description: page about how is behind Delft Open Hardware
----
-
 ## Team awesome 😎
 
 - Jose
