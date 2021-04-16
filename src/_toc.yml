@@ -1,8 +1,5 @@
 file: README
 sections:
-- file: .blog/20201030-blog1
-  sections:
-  - file: .blog/README
 - file: content/README
 - file: events/01_future_events
   sections:
