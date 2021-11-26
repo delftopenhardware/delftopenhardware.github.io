@@ -1,7 +1,0 @@
-type: module                              # REQUIRED: Describe the type of module 
-title: Projects    # REQUIRED: Provide a title for the content module 
-description: >                            # REQUIRED
-  Find out what we do, how you can support and how to suggest projects     
-isPublic: true                            # REQUIRED 
-isDraft: false
-level: 2    

@@ -1,8 +1,0 @@
-type: module                              # REQUIRED: Describe the type of module 
-title: Meetups    # REQUIRED: Provide a title for the content module 
-description: >                            # REQUIRED
-  Want to see what we are all about? 
-  Here is how you can find us
-isPublic: true                            # REQUIRED 
-isDraft: false
-level: 2    

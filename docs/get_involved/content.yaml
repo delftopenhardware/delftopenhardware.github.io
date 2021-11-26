@@ -1,7 +1,0 @@
-type: module                              # REQUIRED: Describe the type of module 
-title: Getting involved   # REQUIRED: Provide a title for the content module 
-description: >                            # REQUIRED
-  For students, researchers, professors, staff and beyond     
-isPublic: true                            # REQUIRED 
-isDraft: false
-level: 2    

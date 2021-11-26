@@ -10,7 +10,7 @@ then
 fi
 
 # Build table of contents website
-jupyter-book toc to-project "${REPO}/ _toc.yml"
+jupyter-book toc from-project "${REPO}" > "_toc.yml"
 
 if [ -d "./_build" ]
 then
