@@ -1,0 +1,17 @@
+root: README
+entries:
+- file: src/README
+  entries:
+  - file: src/content/README
+  - file: src/events/01_future_events
+    entries:
+    - file: src/events/02_past_events
+    - file: src/events/README
+  - file: src/get_involved/README
+  - file: src/projects/01_proposal_project
+    entries:
+    - file: src/projects/02_contribute
+    - file: src/projects/03_Templates
+    - file: src/projects/04-Contributing-to-website
+    - file: src/projects/README
+

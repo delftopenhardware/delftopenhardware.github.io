@@ -10,12 +10,12 @@ exclude_patterns: [LICENSE.md, .blog/ images/**.*,./**/*.py, ./**/*.jpg ]
 
 # Information about where the book exists on the web
 repository:
-  url  : https://github.com/jurra/demo_delft_oh.git
+  url  : https://github.com/delftopenhardware/delftopenhardware.github.io.git
 
 html:
   use_repository_button: true
   comments:
     utterances:
-      repo: "jurra/demo_delft_oh" 
+      repo: "delftopenhardware/delftopenhardware.github.io" 
   
   home_page_in_navbar: false# in _config.yml
