@@ -6,7 +6,11 @@
 
 Due to new covid restrictions we had to move our second part of the workshop online, but this did not keep us from sharing new information and having others learn more about cloud computing!
 
+
 Workshop notes can be found here: [https://hackmd.io/lPtoZMKjSJ-oGiGCzObtLQ](https://hackmd.io/lPtoZMKjSJ-oGiGCzObtLQ)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVNrRbnbgqemFnf8isZ1WB-dKrtckPturPM7dP14W2EoUXU-4K0lGC7EXesd7sICta5l4WnD-v4m8w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 [2021-11-19 Pi Cluster workshop - online](https://docs.google.com/presentation/d/1icYQFUBVtfU0vA51QLy0Xg_b4c4WbfF2hAOZVChjFVw/edit?usp=drivesdk)
 
