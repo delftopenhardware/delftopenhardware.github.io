@@ -1,4 +1,6 @@
-## Team awesome 😎
+#What is delft open hardware
+
+Delft Open Hardware is a grassroots initiative that started in 2018 at the TU Delft.  Together we work on open source projects and share knowledge in the form of workshops.
 
 - Jose
 - Santosh
