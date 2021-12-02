@@ -2,7 +2,7 @@
 
 # 2021 Nov 19 - Pi Cluster Workshop Part II
 
-![Copy of workshop.png](Updates%20dafbbf465a8c46ffb141214d62377520/Copy_of_workshop.png)
+![Copy of workshop.png](../images/clusterworkshop2.png)
 
 Due to new covid restrictions we had to move our second part of the workshop online, but this did not keep us from sharing new information and having others learn more about cloud computing!
 
@@ -14,7 +14,7 @@ Workshop notes can be found here: [https://hackmd.io/lPtoZMKjSJ-oGiGCzObtLQ](htt
 
 # 2021 Oct 01 - Pi Cluster Workshop
 
-![PXL_20211001_110448609.jpg](Updates%20dafbbf465a8c46ffb141214d62377520/PXL_20211001_110448609.jpg)
+![PXL_20211001_110448609.jpg](../images/clusterworkshop1.jpg)
 
 In Collaboration with the high performance computing center at the TU Delft we organized a workshop on the topic of cluster computing. Together with their expert (Dennis Palagin) we made it possible to visualize a cluster computer with a raspberry pi and multiple raspberry pi zero's.
 
@@ -24,7 +24,7 @@ You can find the workshop notes here: [https://hackmd.io/Vemik7JuS_Cep_fd1WwiHA]
 
 # 2021 Feb 11 - Hardware sessions @ OSF2021NL👨‍💻
 
-![Untitled](Updates%20dafbbf465a8c46ffb141214d62377520/Untitled.png)
+![Untitled](../images/opensciencefestival.png)
 
 We gave a workshop at the Open Sience Festival 2021!
 
@@ -42,7 +42,7 @@ Workshop by Nic
 
 # 2020 Feb 21 - Third Meetup 👋
 
-![Untitled](Updates%20dafbbf465a8c46ffb141214d62377520/Untitled%201.png)
+![Untitled](../images/3thmeetup.png)
 
 At the beginning of the year we had a combined meetup, we had a lovely guest speaker and two workshops!
 
@@ -58,7 +58,7 @@ workshop Micropython by Chuck and Jose
 
 # 2019 Nov 29 - Second Meetup 😎
 
-![Untitled](Updates%20dafbbf465a8c46ffb141214d62377520/Untitled%202.png)
+![Untitled](../images/2ndmeetup.png)
 
 After our kickoff event where we shared our vision, we wanted to have a more interactive session, this time we gave a workshop on Git!
 
@@ -66,7 +66,7 @@ After our kickoff event where we shared our vision, we wanted to have a more int
 
 # 2019 Oct 11 - First Meetup!🚀
 
-![Untitled](Updates%20dafbbf465a8c46ffb141214d62377520/Untitled%203.png)
+![Untitled](../images/kickoff.png)
 
 Back in october 2019 we had our initial launch of the Delft Open Hardware Community!
 
