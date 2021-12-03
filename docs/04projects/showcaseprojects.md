@@ -1,12 +1,5 @@
 # Current running projects
 
-## Centrifuge
-![](../images/centrifugeV0.jpg)
-Project lead: Jannes  
-Field: Medical  
-Status: Ongoing  
-Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware/Open-source-Centrifuge-for-WetLab) 
-
 ## Fume sensor
 ![](../images/fume.jpg)
 Project lead: Jerry  
@@ -28,3 +21,10 @@ Project lead: Siemen
 Field: Energy  
 Status: Just started  
 Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware/circular-pv-panel)
+
+## Centrifuge
+![](../images/centrifugeV0.jpg)
+Project lead: Jannes  
+Field: Medical  
+Status: Ongoing  
+Link: [Git repositories](https://gitlab.com/go-commons/delftopenhardware/Open-source-Centrifuge-for-WetLab) 
