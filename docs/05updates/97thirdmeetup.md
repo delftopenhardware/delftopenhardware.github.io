@@ -1,5 +1,5 @@
-# 2020 Feb 21 - Third Meetup 👋
-
+# Third Meetup 👋
+2020 Feb 21
 ![Untitled](../images/3thmeetup.png)
 
 At the beginning of the year we had a combined meetup, we had a lovely guest speaker and two workshops!  

@@ -1,7 +1,10 @@
 # Events
 
 ## 2022 Feb 18 - Workshop: Making a printed circuit board
+
 [Link to the event](https://www.eventbrite.co.uk/e/workshop-making-your-own-pcb-tickets-251894401937)
+
+![Copy of workshop.png](../images/posterPCB.png)
 
 ## 2022 Jan 21 - Seminar: Opening up a flow battery by Sanli Faez🔋
 

@@ -1,5 +1,5 @@
-# 2021 Oct 01 - Pi Cluster Workshop 🥧
-
+# Workshop: Pi Cluster 🥧
+2021 Oct 01
 ![PXL_20211001_110448609.jpg](../images/clusterworkshop1.jpg)
 
   

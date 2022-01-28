@@ -1,5 +1,5 @@
-# 2019 Nov 29 - Second Meetup 😎
-
+# Second Meetup 😎
+2019 Nov 29
 ![Untitled](../images/2ndmeetup.png)
 
 After our kickoff event where we shared our vision, we wanted to have a more interactive session, this time we gave a workshop on Git!

@@ -1,12 +1,9 @@
-# 2022 Jan 21 - Seminar: Opening up a flow battery by Sanli Faez🔋
+# Seminar: Opening up a flow battery by Sanli Faez🔋
+ 2022 Jan 21
+![talk.png](../images/sanlipresentation.png)
 
-![Copy of workshop.png](../images/sanlipresentation.png)
+In the future we will use more energy, batteries will play a critical role in providing us with this energy. Sanli Faez is working on an Open Source Flow Battery to democratise the energy market. Sanli Feaz is an assistant professor at the University Utrecht and a big supporter of open science and open-source working. He records regular podcasts and is now one of the pioneers of making open flow batteries!
 
-  
-Due to new covid restrictions we had to move our second part of the workshop online, but this did not keep us from sharing new information and having others learn more about cloud computing!
-Workshop notes can be found here: [https://hackmd.io/lPtoZMKjSJ-oGiGCzObtLQ](https://hackmd.io/lPtoZMKjSJ-oGiGCzObtLQ)
+We will also be showcasing some of the projects that have been built by the members of the Open Hardware community at Delft, these will include the Open Centrifuge, the Fume sensor, Raspberry Pi Computer Cluster and the award winning Plastic Scanner. Join us to know more about these projects or on how to work on your own!
 
-you can watch the presentation and read the slides here:  
-<iframe src="https://drive.google.com/file/d/1J1jD1f9bKEE1np9EM5_fpKw7pmbMiq7B/preview" width="480" height="299" allow="autoplay"></iframe>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVNrRbnbgqemFnf8isZ1WB-dKrtckPturPM7dP14W2EoUXU-4K0lGC7EXesd7sICta5l4WnD-v4m8w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZkY0UMYyZy83ZOdG-38v2tnCHQGyu6VCV5FiY4ilA105rWJ_kiWK8MmZELbmxMVENA9iT1ZBzb04g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://youtu.be/ZFNe65W2eck" width="480" height="299" allow="autoplay"></iframe>

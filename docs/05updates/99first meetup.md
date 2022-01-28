@@ -1,5 +1,5 @@
-# 2019 Oct 11 - First Meetup!🚀
-
+# First Meetup!🚀
+2019 Oct 11
 ![Untitled](../images/kickoff.png)
 
   

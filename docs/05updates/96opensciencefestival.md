@@ -1,5 +1,5 @@
-# 2021 Feb 11 - Hardware sessions @ OSF2021NL👨‍💻
-
+# Hardware sessions @ OSF2021NL👨‍💻
+2021 Feb 11
 ![Untitled](../images/opensciencefestival.png)
 
   
