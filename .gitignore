@@ -1,4 +1,5 @@
 .vscode/
+dist/
 
 # ipynb
 .ipynb_checkpoints/
@@ -8,3 +9,6 @@ example.egg-info
 .env/
 .venv/
 __pycache__
+
+# vscode files
+workspace.code-workspace

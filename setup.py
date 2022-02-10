@@ -5,8 +5,8 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        'jupyter-book',
-        'ghp-import',
+        'jupyter-book==0.12.0',
+        'ghp-import==2.0.2',
         'docutils<0.17,>=0.15 '
     ]
 )
