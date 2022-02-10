@@ -1,5 +1,5 @@
 This is the source of the Repo for the website
-To see the website visit: [https://delftopenhardware.github.io/](https://delftopenhardware.github.io/)
+To see the website visit: [https://delftopenhardware.nl](https://delftopenhardware.nl)
 # The Website is done with jupyter book static site generator
 https://jupyterbook.org/intro.html
 

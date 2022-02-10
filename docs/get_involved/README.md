@@ -1,4 +1,4 @@
-# How to help out
+# Getting Involved
 
 The reason you are reading this is great! Probably you came here to see what this is all about and maybe to contribute your piece for a better world🌍. Contributing to Delft Open Hardware can be super simple and should never feel like a burden. By participating and engaging with the community, you are already contributing. Get involved, it can be something as simple as adding a switch to a piece of hardware or review a snippet of code.
 
