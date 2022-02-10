@@ -14,7 +14,7 @@ In order to reproduce this code you need to have [jupyter book](https://jupyterb
 - Fork first so that you can work on your own version and experiment there.
 - We recommend to create a specific virtual environment for the project. 
 - For instance you can do with python 3: `python3 -m venv .venv`. Activate it in Unix `source .venv/bin/activate`.
-- Install the dependecies: `python setup.py install`
+- Install the dependecies: `pip install -r requirements.txt`
 - Navigate to the `./docs` folder
 - Simply run `bash build.sh`, this will automatically build a new table of contents and open the static website on your browser.
 - Go to the `./_build/html/` folder and open the index.html file. This should launch the website with the latest version in your browser
