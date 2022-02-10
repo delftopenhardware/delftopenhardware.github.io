@@ -1,15 +1,18 @@
 root: README
 entries:
-- file: content/README
-- file: events/01_future_events
+- file: 01whatis/whatisdelftopenhardware
+- file: 02WhatOffer/whatdoesdelftopenhardwareoffer
+- file: 03contact/howtogetincontact
+- file: 04projects/showcaseprojects
+- file: 05updates/01updates
   entries:
-  - file: events/02_past_events
-  - file: events/README
+  - file: 05updates/93openbattery
+  - file: 05updates/94clusterworkshop2
+  - file: 05updates/95clusterworkshop1
+  - file: 05updates/96opensciencefestival
+  - file: 05updates/97thirdmeetup
+  - file: 05updates/98second meetup
+  - file: 05updates/99first meetup
+- file: 06resources/style
 - file: get_involved/README
-- file: projects/01_proposal_project
-  entries:
-  - file: projects/02_contribute
-  - file: projects/03_Templates
-  - file: projects/04-Contributing-to-website
-  - file: projects/README
 
