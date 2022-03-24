@@ -4,8 +4,11 @@
 
 ## 2022 April 22 - Workshop: 3D modelling and printing
 
-## 2022 March 25 - Seminar: Open! Next?
+## 2022 March 25 - Seminar: Open!Next
 
+
+[read more..](91opennext.md)
+---
 ## 2022 Feb 18 - Workshop: Making your own PCB ⚡
 
 ![Copy of workshop.png](../images/pcbworkshop.png)
